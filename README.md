@@ -58,7 +58,7 @@ Build an end-to-end BI solution using real sales data to surface business insigh
 
 ## 📊 Dashboard
 
-[🔗 View Interactive Tableau Dashboard]([PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE](https://public.tableau.com/app/profile/prithvi.chauhan3487/viz/sales-analytics-dashboard/Dashboard1))
+[🔗 View Interactive Tableau Dashboard](https://public.tableau.com/views/sales-analytics-dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ![Dashboard 1](https://github.com/user-attachments/assets/efd7c482-ab36-4482-add9-e39fc107066b)
 
